@@ -17,7 +17,7 @@ function HeaderComponent() {
       <div className="header">
         <div className='left-section'>
            <div className="logo">
-            <img src="../images/diwali-img.jpg" alt="diwali-img" />
+            <img src="/images/diwali-img.jpg" alt="diwali-img" />
            </div>
           <h2 className="heading">Diwali Cards</h2>
         </div>
