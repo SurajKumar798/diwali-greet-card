@@ -11,7 +11,7 @@ function HeaderComponent() {
        Cookies.remove("token");
        navigate('/');
     }
-    //if(!token) return null;
+  
   return (
     <div>
       <div className="header">
